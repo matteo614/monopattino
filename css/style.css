@@ -1,0 +1,82 @@
+* {
+  font-size: 16px;
+  color: white;
+}
+
+body {
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.container {
+  min-width: 500px;
+  max-width: 80%;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.5);
+  min-height: 300px;
+  margin-top: 40px;
+}
+
+div .col-12 {
+  opacity: 100%;
+}
+
+.logo {
+  width: 240px;
+  height: 110px;
+}
+
+.logo-text {
+  font-size: 25px;
+  text-align: center;
+}
+
+.myP {
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.myGreen {
+  color: rgb(54, 219, 32);
+}
+
+button {
+  color: black;
+  border: 1px solid grey;
+}
+
+.myBgGreen {
+  background-color: rgb(54, 219, 32);
+}
+
+.w-80 {
+  width: 80%;
+}
+
+.first-line {
+  background-color: orange;
+  border: 0px solid transparent;
+  border-radius: 3px;
+  height: 20px;
+  width: 30%;
+}
+
+.second-line {
+  background-color: rgb(54, 219, 32);
+  border: 0px solid transparent;
+  border-radius: 3px;
+  height: 20px;
+  width: 60%;
+}
+
+.third-line {
+  background-color: red;
+  border: 0px solid transparent;
+  border-radius: 3px;
+  height: 20px;
+  width: 10%;
+}
